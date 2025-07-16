@@ -1,4 +1,7 @@
 🔍 Project Review: Student Grade Prediction
+
+
+
 📌 Objective
 To develop a machine learning model that predicts a student’s academic grade based on the number of hours they study, aiming to uncover the relationship between study time and academic performance.
 
